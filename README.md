@@ -1,0 +1,1 @@
+# my-test-ex1-plugin-component
