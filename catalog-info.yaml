@@ -1,0 +1,10 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: my-test-ex1-plugin-component
+  annotations:
+    github.com/project-slug: Sada-r/my-test-ex1-plugin-component
+spec:
+  type: other
+  lifecycle: unknown
+  owner: Sada
